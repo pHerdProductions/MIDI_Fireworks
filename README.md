@@ -6,7 +6,8 @@
 _Main program file_
 1. Connect MIDI keyboard, make sure it's turned on ready to go. Keyboard should connect automatically.
 2. Press a key to launch a firework. The keys translate to the x-position.
-3. Moving the modulation wheel up and down changes the angle the firework is launched.
+3. For velocity sensitive keyboards, how hard the key is pressed will be how high the firework goes.
+4. Moving the modulation wheel up and down changes the angle the firework is launched.
 
 
 #### **CustomFireworks.pde**
